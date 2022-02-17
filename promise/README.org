@@ -1,0 +1,3 @@
+* 参考
+  - [[https://doc.houdunren.com/js/17%20Promise%E6%A0%B8%E5%BF%83.html#%E8%B5%B7%E6%AD%A5%E6%9E%84%E5%BB%BA][Promise 核心]]
+  - [[https://github.com/xieranmaya/blog/issues/3][剖析Promise内部结构，一步一步实现一个完整的、能通过所有Test case的Promise类]]
